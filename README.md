@@ -3,11 +3,11 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tipok3465&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tipok3465&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img width="5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tipok3465&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tipok3465&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
   <img width="5" />
-  <img align="right" height="200" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/eef685eda3e1e5119037df64cba54f2e921f83863fbb2c7391c8e0f34836ca51.gif"  />
+  <img height="160" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/eef685eda3e1e5119037df64cba54f2e921f83863fbb2c7391c8e0f34836ca51.gif"  />
 </div>
 
 <div align="left">
