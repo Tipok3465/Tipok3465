@@ -1,4 +1,4 @@
-<h2 align="left">Welcome, this is some information about me, enjoy ;)</h2>
+<h2 align="left">Welcome, some information about me, enjoy ;)</h2>
 
 ###
 
